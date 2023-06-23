@@ -31,7 +31,7 @@
 <body class="text-center">
 <!-- product registration form -->
 <main class="form w-100 m-auto">
-    <form action="" method="post">
+    <form action="./register-product" method="post">
         <h1 class="h2 mb-5 fw-normal">Registro de Producto</h1>
 
         <div class="form-floating mb-2">
