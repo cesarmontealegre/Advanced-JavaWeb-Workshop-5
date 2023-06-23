@@ -31,7 +31,7 @@
 <body class="text-center">
 <!-- login form -->
 <main class="form w-100 m-auto">
-    <form action="" method="post">
+    <form action="./register-user" method="post">
         <img class="mb-4" src="../img/logo_form.png" alt="My App Form" width="200">
         <h4 class="text-secondary">My App Form</h4>
         <h1 class="h5 mb-3 fw-normal">Registro</h1>
